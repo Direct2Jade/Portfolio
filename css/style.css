@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(300deg, #ffb9a5, #e9abf1, #8da8fa);
+    background-attachment: fixed;
+    margin-top: 200px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 120px;
+    color:white;
+    font-family: "Cookie", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+

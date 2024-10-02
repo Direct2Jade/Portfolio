@@ -27,3 +27,6 @@ font-weight: 400px;
 font-style: normal;
 }
 
+.btn-outline-light:hover { color:white;
+  cursor: default;
+}

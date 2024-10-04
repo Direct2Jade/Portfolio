@@ -30,3 +30,23 @@ font-style: normal;
 .btn-outline-light:hover { color:white;
   cursor: default;
 }
+
+#home:hover {
+  color: black;
+  cursor: pointer;
+}
+
+#about:hover {
+  color: black;
+  cursor: pointer;
+}
+
+#projects:hover {
+  color: black;
+  cursor: pointer;
+}
+
+#contact:hover {
+  color: black;
+  cursor: pointer;
+}

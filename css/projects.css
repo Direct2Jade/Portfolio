@@ -50,3 +50,11 @@ font-style: normal;
   color: black;
   cursor: pointer;
 }
+
+#paragraph1:active {
+  color: white;
+}
+
+#paragraph2:active {
+  color: white;
+}

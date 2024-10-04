@@ -28,7 +28,7 @@ font-style: normal;
 }
 
 .btn-outline-light:hover { color:white;
-  cursor: default;
+  cursor: text;
 }
 
 #home:hover {

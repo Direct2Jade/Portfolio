@@ -43,7 +43,7 @@ li { font-size:1.25rem;
 }
 
 .btn-outline-light:hover { color:white;
-  cursor: default;
+  cursor: text;
 }
 
 #home:hover {
